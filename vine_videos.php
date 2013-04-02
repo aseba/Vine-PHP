@@ -1,6 +1,5 @@
-<?php
-
 #!/usr/bin/php
+<?php
 
 $params = array();
 
@@ -25,7 +24,6 @@ if(!in_array('password', array_keys($params))) {
 if(!in_array('tag', array_keys($params))) {
 	usage();
 }
-
 
 require 'vine.php';
 
