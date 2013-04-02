@@ -1,4 +1,4 @@
-# Vine video getter
+# Vine PHP
 
 This is a small PHP library to download vine videos based on a tag.
 
