@@ -11,3 +11,7 @@ see `vine_videos.php` as example
 ## Example Script
 
 	./vine_videos.php --username vine_email --password vine_password --tag firstvineever
+
+## See also
+
+[Vino](https://github.com/tlack/vino)
