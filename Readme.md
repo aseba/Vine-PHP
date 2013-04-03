@@ -2,7 +2,7 @@
 
 This is a small PHP library to download vine videos based on a tag.
 
-It is just a testing class, It will probably break a lot
+It is just a testing class for the Vine API, It will probably break a lot
 
 ## Usage
 
